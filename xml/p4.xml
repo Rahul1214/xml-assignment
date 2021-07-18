@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "p4.xsl"?>   
+<class>   
+   <employee id = "111">  
+      <firstname>Rahul</firstname>   
+      <lastname>Sapaliga</lastname>   
+      <middlename>R</middlename>   
+      <fathername>Leeladhara Sapaliga</fathername>  
+       <dob>12-03-1999</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>MCA</qualification>
+       <salary>58500</salary>
+   </employee>   
+   <employee id = "112">   
+      <firstname>Riya</firstname>   
+      <lastname>Sonal</lastname>   
+      <middlename>R</middlename>   
+      <fathername>Raghurama</fathername>  
+       <dob>14-09-1998</dob>
+       <city>Manglore</city>
+       <state>Karnataka</state>
+       <qualification>MCA</qualification>
+       <salary>1050500</salary>
+   </employee>
+   
+   <employee id = "113">   
+      <firstname>Danush</firstname>   
+      <lastname>Acharya</lastname>   
+      <middlename>Raju</middlename>   
+      <fathername>LHM</fathername>  
+       <dob>01-06-1999</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>45500</salary>
+   </employee>   
+</class>  
